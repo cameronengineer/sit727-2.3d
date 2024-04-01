@@ -12,10 +12,10 @@ class Unit(models.Model):
 class Submission(models.Model):
 
     LEVELS = (
-        ('a', 'Pass'),
-        ('b', 'Credit'),
-        ('c', 'Distinction'),
-        ('d', 'High Distinction'),
+        ('Pass', 'Pass'),
+        ('Credit', 'Credit'),
+        ('Distinction', 'Distinction'),
+        ('High Distinction', 'High Distinction'),
     )
 
     unit = models.ForeignKey(Unit, on_delete=models.DO_NOTHING)

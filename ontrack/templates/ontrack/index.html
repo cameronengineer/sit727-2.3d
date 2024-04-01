@@ -1,0 +1,11 @@
+{% if unit_list %}
+    
+    {% for unit in unit_list %}
+    <ul>
+        <li><a href="{% url 'ontrack:submissions' unit.id %}">{{ unit.name }}</a></li>
+        <li>Code: {{ unit.code }}</li>
+        <li>Period: {{unit.period }}</li>
+    </ul>      
+    {% endfor %}
+
+{% endif %}

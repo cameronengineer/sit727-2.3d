@@ -1,0 +1,11 @@
+{% if submission_list %}
+    
+    {% for submission in submission_list %}
+    <ul>
+        <li>Name:  {{ submission.name }}      </li>
+        <li>Code:  {{ submission.code }}      </li>
+        <li>Level: {{ submission.level }}     </li>
+    </ul>      
+    {% endfor %}
+
+{% endif %}

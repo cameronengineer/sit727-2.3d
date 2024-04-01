@@ -1,0 +1,119 @@
+[
+  {
+    "model": "ontrack.unit",
+    "pk": 1,
+    "fields": {
+      "code": "SIT706",
+      "name": "Cloud Computing",
+      "period": "T1 2024"
+    }
+  },
+  {
+    "model": "ontrack.unit",
+    "pk": 2,
+    "fields": {
+      "code": "SIT727",
+      "name": "Cloud Automation Technologies",
+      "period": "T1 2024"
+    }
+  },
+  {
+    "model": "ontrack.unit",
+    "pk": 3,
+    "fields": {
+      "code": "SIT737",
+      "name": "Cloud Native Application Development",
+      "period": "T1 2024"
+    }
+  },
+  {
+    "model": "ontrack.submission",
+    "pk": 1,
+    "fields": {
+      "unit": 1,
+      "code": "2.1P",
+      "name": "Hosting a Static Website",
+      "level": "a"
+    }
+  },
+  {
+    "model": "ontrack.submission",
+    "pk": 2,
+    "fields": {
+      "unit": 1,
+      "code": "2.2C",
+      "name": "Creating a Static Website for the Cafe",
+      "level": "b"
+    }
+  },
+  {
+    "model": "ontrack.submission",
+    "pk": 3,
+    "fields": {
+      "unit": 1,
+      "code": "3.1P",
+      "name": "Introducing Amazon Elastic File System",
+      "level": "a"
+    }
+  },
+  {
+    "model": "ontrack.submission",
+    "pk": 4,
+    "fields": {
+      "unit": 2,
+      "code": "1.1P",
+      "name": "Linux Basics",
+      "level": "a"
+    }
+  },
+  {
+    "model": "ontrack.submission",
+    "pk": 5,
+    "fields": {
+      "unit": 2,
+      "code": "2.1P",
+      "name": "In-House or In-Cloud",
+      "level": "a"
+    }
+  },
+  {
+    "model": "ontrack.submission",
+    "pk": 6,
+    "fields": {
+      "unit": 2,
+      "code": "2.2C",
+      "name": "Microservice Architectures",
+      "level": "b"
+    }
+  },
+  {
+    "model": "ontrack.submission",
+    "pk": 7,
+    "fields": {
+      "unit": 3,
+      "code": "1.1P",
+      "name": "Skill Review and Target Grade",
+      "level": "a"
+    }
+  },
+  {
+    "model": "ontrack.submission",
+    "pk": 8,
+    "fields": {
+      "unit": 3,
+      "code": "2.1P",
+      "name": "Node.js and Express",
+      "level": "a"
+    }
+  },
+  {
+    "model": "ontrack.submission",
+    "pk": 9,
+    "fields": {
+      "unit": 3,
+      "code": "3.1P",
+      "name": "Architecture Consideration",
+      "level": "a"
+    }
+  }
+]

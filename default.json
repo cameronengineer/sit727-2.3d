@@ -33,7 +33,7 @@
       "unit": 1,
       "code": "2.1P",
       "name": "Hosting a Static Website",
-      "level": "a"
+      "level": "Pass"
     }
   },
   {
@@ -43,7 +43,7 @@
       "unit": 1,
       "code": "2.2C",
       "name": "Creating a Static Website for the Cafe",
-      "level": "b"
+      "level": "Credit"
     }
   },
   {
@@ -53,7 +53,7 @@
       "unit": 1,
       "code": "3.1P",
       "name": "Introducing Amazon Elastic File System",
-      "level": "a"
+      "level": "Pass"
     }
   },
   {
@@ -63,7 +63,7 @@
       "unit": 2,
       "code": "1.1P",
       "name": "Linux Basics",
-      "level": "a"
+      "level": "Pass"
     }
   },
   {
@@ -73,7 +73,7 @@
       "unit": 2,
       "code": "2.1P",
       "name": "In-House or In-Cloud",
-      "level": "a"
+      "level": "Pass"
     }
   },
   {
@@ -83,7 +83,7 @@
       "unit": 2,
       "code": "2.2C",
       "name": "Microservice Architectures",
-      "level": "b"
+      "level": "Credit"
     }
   },
   {
@@ -93,7 +93,7 @@
       "unit": 3,
       "code": "1.1P",
       "name": "Skill Review and Target Grade",
-      "level": "a"
+      "level": "Pass"
     }
   },
   {
@@ -103,7 +103,7 @@
       "unit": 3,
       "code": "2.1P",
       "name": "Node.js and Express",
-      "level": "a"
+      "level": "Pass"
     }
   },
   {
@@ -113,7 +113,7 @@
       "unit": 3,
       "code": "3.1P",
       "name": "Architecture Consideration",
-      "level": "a"
+      "level": "Pass"
     }
   }
 ]
